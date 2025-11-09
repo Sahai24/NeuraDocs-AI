@@ -1,0 +1,6 @@
+# Ignore environment variable files
+.env
+*.env
+python/.env
+python/Document_processing_api/.env
+python/RAG_processing/.env
